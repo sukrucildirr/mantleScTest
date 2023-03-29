@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to array types.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"mantleScTest.sol_flattened.sol": "Arrays"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"mantleScTest.sol_flattened.sol": {
+			"keccak256": "0x143b46629f141182242dae698e326dec22e17d4f2d0c0280ea32dbde8518fd8c",
+			"urls": [
+				"bzz-raw://a8e31f4943ef4f4f078da3120ae993ba6b7397341244040e9872f5d58a29e108",
+				"dweb:/ipfs/QmQoemXjKgS2SiVuRcW9LnFPLAHRTKQz8UVowDz5FfUf5B"
+			]
+		}
+	},
+	"version": 1
+}
